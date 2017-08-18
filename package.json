@@ -1,0 +1,13 @@
+{
+	"name": "mafre",
+	"dependencies": {
+		"next": "latest",
+		"react": "^15.6.1",
+		"react-dom": "^15.6.1"
+	},
+	"scripts": {
+		"dev": "next",
+		"build": "next build && next export",
+		"start": "next start"
+	}
+}
